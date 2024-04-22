@@ -8,5 +8,4 @@ def mod1():
 def mod2():
     print('model 2')
 
-def mod2():
-    print('model 2')
+# deleting model 3 
